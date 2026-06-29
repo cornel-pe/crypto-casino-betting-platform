@@ -1,4 +1,4 @@
-# Gamblify Casino Frontend
+# Gamblify Casino Frontend Sample
 <img width="1918" height="906" alt="screen" src="https://github.com/user-attachments/assets/1f194beb-dbe3-47ed-ad30-b734bf03c0a5" />
 
 A comprehensive online casino and gaming platform built with React, featuring casino games, sports betting, NFT marketplace, and more.
